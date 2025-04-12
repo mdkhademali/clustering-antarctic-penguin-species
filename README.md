@@ -1,6 +1,6 @@
 ## Penguin Clustering Project
 
-In this project, we applied **K-Means Clustering** to group penguins in Antarctica based on their physical characteristics.  
+In this project, I applied **K-Means Clustering** to group penguins in Antarctica based on their physical characteristics.  
 The goal was to discover natural clusters using features like culmen length, flipper length, and body mass, since species labels were not provided.
 
 ## Dataset
